@@ -1,0 +1,601 @@
+{
+	"Index invers": [
+		{
+			"cultur": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 2
+			},
+			"year": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 2
+			},
+			"expos": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"prev": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 2
+			},
+			"cerv": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"properti": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"focus": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"fin": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"antioxid": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"elimin": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"ban": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"mainstai": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"america": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"ingest": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"fit": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"tea": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 12,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 13,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 5,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 10
+			},
+			"firm": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"fam": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"ic": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"boil": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"condi": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"serv": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"russian": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 2
+			},
+			"method": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"varieti": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"mild": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"night": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"milk": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"hast": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"brew": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"drink": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 3,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 5
+			},
+			"benefit": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 2
+			},
+			"studi": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"backbon": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"boost": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"suit": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"tibetan": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"cup": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"organ": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 4
+			},
+			"kettl": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"brought": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"natur": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 2,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"ceremoni": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 8
+			},
+			"affect": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"glob": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 2
+			},
+			"soil": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"hot": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"cell": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"seek": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"long": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"miner": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"lot": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"lov": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"bu": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"found": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"modern": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"neatli": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"wee": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"aspect": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"residu": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"larg": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"pow": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"industri": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"protect": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"grown": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 3
+			},
+			"tox": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"popular": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"regular": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"heavi": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"centuri": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"art": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"bubbl": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"contain": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"learn": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"discoveri": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"black": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 6
+			},
+			"health": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 2,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"inhibit": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"leaf": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"great": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"off": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"lifestyl": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"surpris": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"usag": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"oldest": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"citi": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"inst": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"dainti": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"grab": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"esophag": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"li": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"thousand": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"standard": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"teacup": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"perfect": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"outlaw": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"speci": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"concoc": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"typ": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"prepar": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 3
+			},
+			"beverag": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"good": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"dai": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"villag": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"prost": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"countri": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 2
+			},
+			"juic": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"loos": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"find": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"simpl": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"medicin": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"subsequ": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"insect": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"claim": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"compl": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"advis": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"cha": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"discov": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"doesn": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"glass": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"chines": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 2
+			},
+			"evid": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"suppos": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"occur": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"todai": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"reduc": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 3
+			},
+			"choos": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 2
+			},
+			"bold": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"numb": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"flavor": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"ev": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"cultiv": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"consum": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"effect": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"tast": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"true": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"histori": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"region": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"canc": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 8
+			},
+			"crop": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"nutri": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"delici": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"fortun": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"harm": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 3
+			},
+			"fruit": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"part": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"continu": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"cold": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"literatur": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"peopl": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 2
+			},
+			"prepackag": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"energ": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"interest": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"car": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"China": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"combin": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"involv": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"promot": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"provid": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"met": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"ingredi": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"wai": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"benefici": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"pesticid": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 2
+			},
+			"purpos": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"societi": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"process": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 2
+			},
+			"green": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 9
+			},
+			"chem": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"will": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"europ": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"readi": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"bottl": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"healthi": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 4
+			},
+			"wat": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 2
+			},
+			"improv": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"soda": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\dir_dir_dir\\file_four.txt": 1
+			},
+			"qualifi": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"differ": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"argu": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"form": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"colon": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"well": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"cancer": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1
+			},
+			"growth": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 1,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 2
+			},
+			"risk": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 3,
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_two.txt": 1
+			},
+			"basi": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"healthiest": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\dir_dir\\file_three.txt": 2
+			},
+			"strictli": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			},
+			"po": {
+				"C:\\Users\\Gabi Socea\\Desktop\\Java\\RIW - Aplicatii\\Laborator_5\\RIW_Proiect\\Struct_dir\\file_one.txt": 1
+			}
+		}
+	]
+}

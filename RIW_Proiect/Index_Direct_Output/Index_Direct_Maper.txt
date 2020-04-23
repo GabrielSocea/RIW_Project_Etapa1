@@ -1,0 +1,4 @@
+C:\Users\Gabi Socea\Desktop\Java\RIW - Aplicatii\Laborator_5\RIW_Proiect\Struct_dir\file_one.txt = Index_Direct_Output\Struct_dir_index_direct.json
+C:\Users\Gabi Socea\Desktop\Java\RIW - Aplicatii\Laborator_5\RIW_Proiect\Struct_dir\file_two.txt = Index_Direct_Output\Struct_dir_index_direct.json
+C:\Users\Gabi Socea\Desktop\Java\RIW - Aplicatii\Laborator_5\RIW_Proiect\Struct_dir\dir_dir\file_three.txt = Index_Direct_Output\dir_dir_index_direct.json
+C:\Users\Gabi Socea\Desktop\Java\RIW - Aplicatii\Laborator_5\RIW_Proiect\Struct_dir\dir_dir\dir_dir_dir\file_four.txt = Index_Direct_Output\dir_dir_dir_index_direct.json
